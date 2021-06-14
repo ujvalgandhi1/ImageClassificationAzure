@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T14:45:31.478Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="FbGYKhiL-FHkS4kFpR97" version="14.7.7" type="github"><diagram id="l3tfPqB2Vd2edtiMSxVR" name="Page-1">ddFND4IgGAfwT8MdYW51NqtLJw+dmTwJG/o4xGl9+nBIxqwT8OMPDy+EF+18saJXN5RgCKNyJvxEGMt4nvlmkWeQI6UBGqvlGtqg0i9YMcZGLWFIgg7RON2nWGPXQe0SE9bilMYeaNKqvWhgB1UtzF7vWjoV9JDTza+gGxUrZ/F+rYjhFQYlJE5fxEvCC4voQq+dCzDL48V3CevOf2Y/B7PQuR8LfGfb2w+SH+LlGw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-14T14:49:48.993Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="G6V9kzrqN40Ny0pYmzu4" version="14.7.7" type="github">
+  <diagram id="l3tfPqB2Vd2edtiMSxVR" name="Page-1">
+    <mxGraphModel dx="1351" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ri1c2qBdQW_ZFzcMgw0m-1" value="CustomVision.ai" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=16;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="98" y="126.47" width="90" height="63.53" as="geometry" />
+        </mxCell>
+        <mxCell id="ri1c2qBdQW_ZFzcMgw0m-2" value="Set up a custom classifier on CustomVision.ai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ri1c2qBdQW_ZFzcMgw0m-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="90" height="63.53" as="geometry" />
+        </mxCell>
+        <mxCell id="ri1c2qBdQW_ZFzcMgw0m-4" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJJY29ucyIgdmlld0JveD0iMCAwIDY0IDY0Ij48ZGVmcz48c3R5bGU+LmNscy0ye2ZpbGw6I2ZmZn08L3N0eWxlPjwvZGVmcz48cGF0aCBkPSJNMCAzMWMwLS4wOS4wNS0uMTguMDYtLjI3LjA1LS45Mi4wNi0xLjg0LjE2LTIuNzVhMTUuNzYgMTUuNzYgMCAwMTIuODUtOC4yOCA4LjMgOC4zIDAgMDE1LjY5LTMuMzIgNy43OCA3Ljc4IDAgMDExLS4wNkgzMWMuNDIgMCAuNDIgMCAuNDItLjQydi0xLjQ3YzAtLjMtLjA5LS4zNy0uMzgtLjM3SDE2LjU2Yy0uMjUgMC0xLjU2LS4wNy0xLjU2LS4zM1Y2LjUxYzAtMS4wOCAxLjc0LTIgMi40NC0yLjc3QTguNzcgOC43NyAwIDAxMjEgMS40NSAyMS44NyAyMS44NyAwIDAxMjYuMTIuMjhhNDMuMDkgNDMuMDkgMCAwMTcuMi0uMjIgMjMuNDYgMjMuNDYgMCAwMTcuNTggMS40MSA5LjMyIDkuMzIgMCAwMTQuMjUgMyA2IDYgMCAwMTEuMjQgNGMtLjA2IDEuMjIgMCAyLjQ2IDAgMy42OHY2LjgyYzAgMS4zNCAwIDIuNjgtLjA2IDRhNy4xMiA3LjEyIDAgMDEtNC42MiA2LjYyIDEwLjU1IDEwLjU1IDAgMDEtNC4xMi43OWgtMTVBOC41OCA4LjU4IDAgMDAxOCAzMS41OWE3LjkyIDcuOTIgMCAwMC0zLjQ3IDQuODUgMTEuMzcgMTEuMzcgMCAwMC0uNDIgMy4xMnY2LjgyYzAgLjQ1IDAgLjQ1LS40Ni40NS0xLjYzIDAtMy4yNy4wNS00LjkgMEE2Ljg0IDYuODQgMCAwMTQuNCA0NWExMC44NyAxMC44NyAwIDAxLTMtNC42NyAxOS44OSAxOS44OSAwIDAxLTEuMTMtNS4wMmMtLjEtMS4xLS4xNC0yLjItLjIxLTMuMyAwLS4xMi0uMDYtLjI0LS4wNi0uMzZ6IiBmaWxsPSIjMzc3MmE0Ii8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMjAgN2EzIDMgMCAwMTYgMCAzIDMgMCAxMS02IDB6Ii8+PHBhdGggZD0iTTYzIDMyYTEuNjEgMS42MSAwIDAwLS4wNi4yN2MtLjA1LjkyLS4wNiAxLjg0LS4xNiAyLjc1YTE1Ljc2IDE1Ljc2IDAgMDEtMi44NSA4LjI1IDguMyA4LjMgMCAwMS01LjY5IDMuMzIgNy43OCA3Ljc4IDAgMDEtMSAuMDZIMzJjLS40MiAwLS40MiAwLS40Mi40MnYxLjQ3YzAgLjMuMDkuMzcuMzguMzdoMTQuNDhjLjI1IDAgLjMzLjA3LjMzLjMzdjcuMjJhNC4yMSA0LjIxIDAgMDEtMS4yMiAyLjc3QTguNzcgOC43NyAwIDAxNDIgNjEuNTVhMjEuODcgMjEuODcgMCAwMS01LjExIDEuMTcgNDMuMDkgNDMuMDkgMCAwMS03LjIuMjIgMjMuNDYgMjMuNDYgMCAwMS03LjU4LTEuNDEgOS4zMiA5LjMyIDAgMDEtNC4yNS0zIDYgNiAwIDAxLTEuMjQtNGMuMDYtMS4yMiAwLTIuNDYgMC0zLjY4di02LjgyYzAtMS4zNCAwLTIuNjguMDYtNGE3LjEyIDcuMTIgMCAwMTQuNjItNi42MiAxMC41NSAxMC41NSAwIDAxNC4xMi0uNzloMTVBOC41OCA4LjU4IDAgMDA0NSAzMS40MWE3LjkyIDcuOTIgMCAwMDMuNDctNC44NSAxMS4zNyAxMS4zNyAwIDAwLjQyLTMuMTJ2LTYuODJjMC0uNDUgMC0uNDUuNDYtLjQ1IDEuNjMgMCAzLjI3LS4wNSA0LjkgMEE2Ljg0IDYuODQgMCAwMTU4LjYgMThhMTAuODcgMTAuODcgMCAwMTMgNC42NyAxOS44OSAxOS44OSAwIDAxMS4xMSA1LjA3Yy4xIDEuMS4xNCAyLjIuMjEgMy4zYTMuMjUgMy4yNSAwIDAwLjA2LjM2cS4wMi4yOS4wMi42eiIgZmlsbD0iI2ZmZGE0YiIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTQzLjUxIDU0LjkyYTMgMyAwIDAxLTYgMCAzIDMgMCAxMTYgMHoiLz48L3N2Zz4=;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ri1c2qBdQW_ZFzcMgw0m-5" value="Python Code" style="swimlane;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ri1c2qBdQW_ZFzcMgw0m-6" value="Python Code invokes the Prediction Endpoint and uses Cognitive Services resources to generate tag names &amp;amp; probability of each tag&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="334" y="500" width="250" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
